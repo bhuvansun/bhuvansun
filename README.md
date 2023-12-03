@@ -9,3 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: For every 60 seconds in Africa, a minute passes
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvansun&show_icons=true&locale=en&layout=compact" alt="bhuvansun" /></p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvansun)](https://github.com/anuraghazra/github-readme-stats)
